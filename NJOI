@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1, group-title="Malaysia", PLAYLIST M3U LENGKAP DAN TERKINI
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Malaysia", Playlist Ini Bukan Untuk Dijual
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Malaysia", (MY) TV1
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) TV2
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) NTV7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) 8TV
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) RTM Sport
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) RTM BES
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1, group-title="Malaysia", (MY) Bernama
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", PLAYLIST M3U LENGKAP DAN TERKINI
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Astro", Playlist Ini Bukan Untuk Dijual
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Ria
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Oasis
+http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Citra
+http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Warna
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Hello
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Naura
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Boo
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Awani
+http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Ceria
+http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1, group-title="Astro", (MY) Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1, group-title="Singapore", PLAYLIST M3U LENGKAP DAN TERKINI
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Singapore", Playlist Ini Bukan Untuk Dijual
+https://www.youtube.com
+
+#EXTINF:-1, group-title="Singapore", (SG) Vasantham
+http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
+
+#EXTINF:-1, group-title="Singapore", (SG) Suria
+http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
+
+#EXTINF:-1, group-title="Singapore", (SG) Channel U
+http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+
+#EXTINF:-1, group-title="Singapore", (SG) Channel 5
+http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+
+#EXTINF:-1, group-title="Singapore", (SG) Channel 8
+http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
